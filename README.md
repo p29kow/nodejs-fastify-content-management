@@ -28,11 +28,3 @@ A lightweight, efficient blogging platform built with Node.js, Fastify, and Mate
 ### Prerequisites
 - Node.js (v14 or higher)
 - npm (v6 or higher)
-- MongoDB (or your preferred database)
-
-### Setup Steps
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/p29kow/nodejs-fastify-content-management.git
-   cd nodejs-fastify-content-management
