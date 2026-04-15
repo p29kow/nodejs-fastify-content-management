@@ -22,9 +22,3 @@ A lightweight, efficient blogging platform built with Node.js, Fastify, and Mate
 | `routes/` | API and frontend route definitions (Posts, Admin, etc.) |
 | `services/` | Business logic layer to separate concerns from routes |
 | `views/` | EJS templates for the frontend UI |
-
-## 🛠️ Installation
-
-### Prerequisites
-- Node.js (v14 or higher)
-- npm (v6 or higher)
